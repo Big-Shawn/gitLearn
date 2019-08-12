@@ -1,1 +1,5 @@
 this is a new txt file that I use to study Git Lesson.
+
+this is the second time I edit the file so that I could learn the features that git could bring.
+
+
